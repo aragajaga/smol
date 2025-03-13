@@ -1,4 +1,4 @@
-# Ladybird
+# Smol
 
 [Ladybird](https://ladybird.org) is a truly independent web browser, using a novel engine based on web standards.
 
@@ -51,4 +51,4 @@ The full contribution guidelines can be found in [`CONTRIBUTING.md`](CONTRIBUTIN
 
 ## License
 
-Ladybird is licensed under a 2-clause BSD license.
+Smol is licensed under a 2-clause BSD license.
